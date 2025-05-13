@@ -12,7 +12,7 @@ class Study{
             System.out.println("name:"+name);
             System.out.println("age:"+age);
             System.out.println("dob:"+dob);
-        }
+        } 
     }
     class Course{
         void show(){
